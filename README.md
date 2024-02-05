@@ -18,13 +18,40 @@ El proyecto consiste en desarrollar una aplicación web integral diseñada para 
 <h2 align="center">REQUERIMIENTOS INICIALES</h2>
 
 - `¿Cuál es el propósito principal de la página web?:` *Añadir informacion a este campo*
-- `¿Cuáles son los objetivos específicos que espera lograr con la página?:` *Añadir informacion a este campo*
-- `¿Hay requisitos específicos para adaptarse a las necesidades de diferentes usuarios?:` *Añadir informacion a este campo*
-- `¿Qué páginas debe disponer principalmente?(inicio, login, informacion, etc):` *Añadir informacion a este campo*
-- `¿Hay otros sitios web cuyo diseño le gustaría tomar como referencia?` *Añadir informacion a este campo*
-- `¿Qué funcionalidades específicas le gustaría tener en la página?:` *Añadir informacion a este campo*
-- `¿Es necesario que la página web sea multilingüe para atender a pacientes de diferentes idiomas?:` *Añadir informacion a este campo*
+  -- El propósito principal de la página web es promocionar la clínica odontológica para atraer a nuevos pacientes. Además, busca optimizar la gestión de la clínica mediante la facilitación de la programación de turnos y la administración eficiente de la información de pacientes antiguos, ofreciendo acceso rápido a sus historias clínicas, historial de visitas y tratamientos realizados por los odontólogos de la clínica.
 
+- `¿Cuáles son los objetivos específicos que espera lograr con la página?:` *Añadir informacion a este campo*
+  -- Los principales objetivos son los siguientes:
+    Aumentar la visibilidad y atractivo de la clínica para atraer nuevos pacientes.
+    Facilitar la programación de turnos de manera eficiente.
+    Mejorar la gestión de la información de pacientes antiguos, proporcionando acceso fácil a historias clínicas y registros de tratamientos.
+    Promover la confianza y fidelización de los pacientes a través de un acceso transparente a su historial clínico.
+
+- `¿Hay requisitos específicos para adaptarse a las necesidades de diferentes usuarios?:` *Añadir informacion a este campo*
+  -- Sí, se deben considerar las necesidades tanto de nuevos pacientes como de pacientes antiguos. 
+    Para los nuevos pacientes, la página debe ser atractiva, informativa y facilitar la programación de citas. 
+    Para los pacientes antiguos, se requiere un acceso sencillo a su historial clínico y detalles de tratamientos previos.
+
+- `¿Qué páginas debe disponer principalmente?(inicio, login, informacion, etc):` *Añadir informacion a este campo*
+  -- Página de Inicio (Home): Para proporcionar información general sobre la clínica y sus servicios.
+    Página de Turnos: Donde los pacientes puedan programar sus citas de manera fácil y rápida. Asi como los profesiopnales podran organizar su itinerario
+    Página de Historia Clínica: Acceso seguro para pacientes antiguos a sus historias clínicas, historial de visitas y tratamientos.
+    Página de Información: Detalles sobre los odontólogos, servicios ofrecidos, ubicación y contacto.
+    Página de Registro/Login: Para que los pacientes puedan crear cuentas o acceder a sus perfiles.
+
+- `¿Hay otros sitios web cuyo diseño le gustaría tomar como referencia?` *Añadir informacion a este campo*
+  -- (A verificar y proporcionar ideas con steven)
+
+- `¿Qué funcionalidades específicas le gustaría tener en la página?:` *Añadir informacion a este campo*
+  --Sistema de programación de turnos en línea.
+    Acceso seguro a la historia clínica con detalles de tratamientos y visitas anteriores.
+    Perfil personalizado para cada paciente.
+    Información detallada sobre los odontólogos y servicios.
+    Formularios en línea para nuevos pacientes.
+
+- `¿Es necesario que la página web sea multilingüe para atender a pacientes de diferentes idiomas?:` *Añadir informacion a este campo*
+  -- Dado que la mayoría de los pacientes hablan español, inicialmente, la página puede estar en español.
+    Sin embargo, considerando la posibilidad de atraer a pacientes de diferentes idiomas en el futuro, sería beneficioso planificar la capacidad de expansión a un sistema multilingüe para garantizar la accesibilidad y comodidad para un público más amplio. 
 
 <h2 align="center">DISEÑO DE LA PÁGINA WEB</h2>
 
